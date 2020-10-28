@@ -1,4 +1,4 @@
-## Tema 04: Multithreading
+## Multithreading
 
 
 **Objetivos do tema:**
