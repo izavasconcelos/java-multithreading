@@ -12,7 +12,7 @@ public class OddGenerator extends Thread {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            System.out.println("Thread Odd: " + generateRandomEvenNumber());
+            System.out.println("Thread Odd: " + generateRandomOddNumber());
         }
     }
     private int generateRandomOddNumber() {
